@@ -18,8 +18,8 @@ jobs:
       contents: read
       actions: write
     env:
-      SNAKE_COLOR: "%2334d399"
-      GRID_DOTS: "%230b1220,%231a2b50,%232e4d7a,%233f6fb0,%2334d399"
+      SNAKE_COLOR: "%23d4af37"
+      GRID_DOTS: "%230b0716,%2315132e,%23221f4e,%236d53c8,%23d4af37"
     steps:
       - name: Draw the snake from latest contributions
         uses: Platane/snk@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0

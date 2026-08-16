@@ -6,6 +6,25 @@ Cybersecurity & cloud computing engineering student with a passion for building 
 ---
 
 <p align="center">
+  <b>⚡ Stats ⚡</b>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Meeeeedd&theme=github_dark" width="100%" alt="profile details" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Meeeeedd&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=d4af37&icon_color=8b5cf6&text_color=bfb2d6&count_private=true" alt="stats" />
+  <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/top-langs/?username=Meeeeedd&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=d4af37&text_color=bfb2d6&langs_count=8" alt="top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meeeeedd&hide_border=true&background=00000000&ring=d4af37&fire=f1c27d&currStreakNum=d4af37&currStreakLabel=8b5cf6&sideNums=bfb2d6&sideLabels=bfb2d6&dates=bfb2d6" alt="streak" />
+</p>
+
+---
+
+<p align="center">
   <b>🚀 Featured Projects 🚀</b>
 </p>
 
@@ -167,25 +186,8 @@ Cybersecurity & cloud computing engineering student with a passion for building 
 ---
 
 <p align="center">
-  <b>⚡ Stats ⚡</b>
+  <b>📫 Let's Connect</b>
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Meeeeedd&theme=github_dark" width="100%" alt="profile details" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Meeeeedd&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=34d399&icon_color=38bdf8&text_color=c9d1d9&count_private=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Meeeeedd&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=34d399&text_color=c9d1d9&langs_count=8" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meeeeedd&hide_border=true&background=00000000&ring=34d399&fire=ffd319&currStreakNum=34d399&currStreakLabel=38bdf8&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="streak" />
-</p>
-
----
-
-### 📫 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-ben-naima"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" /></a>

@@ -1,36 +1,37 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Mohamed Ben Naima - Full-Stack Developer and Cybersecurity Engineer">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#0b1220"/>
-      <stop offset="1" stop-color="#111c31"/>
+      <stop offset="0" stop-color="#0b0818"/>
+      <stop offset="1" stop-color="#161030"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fbf3d9"/>
+      <stop offset="0.55" stop-color="#ecd28c"/>
+      <stop offset="1" stop-color="#c99842"/>
     </linearGradient>
     <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#34d399"/>
-      <stop offset="1" stop-color="#38bdf8"/>
+      <stop offset="0" stop-color="#e6c66b"/>
+      <stop offset="1" stop-color="#b48a3a"/>
     </linearGradient>
-    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#ffffff"/>
-      <stop offset="1" stop-color="#d9e8f8"/>
-    </linearGradient>
-    <radialGradient id="glowG" cx="0.5" cy="0.36" r="0.72">
-      <stop offset="0" stop-color="#34d399" stop-opacity="0.18"/>
-      <stop offset="1" stop-color="#34d399" stop-opacity="0"/>
+    <radialGradient id="glowV" cx="0.5" cy="0.34" r="0.72">
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="glowC" cx="0.9" cy="0.85" r="0.55">
-      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.12"/>
-      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    <radialGradient id="glowB" cx="0.9" cy="0.85" r="0.55">
+      <stop offset="0" stop-color="#4f46e5" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#4f46e5" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="nameGlow" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.10"/>
-      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
     </radialGradient>
   </defs>
 
   <rect width="1200" height="340" fill="url(#bg)"/>
-  <rect width="1200" height="340" fill="url(#glowG)"/>
-  <rect width="1200" height="340" fill="url(#glowC)"/>
+  <rect width="1200" height="340" fill="url(#glowV)"/>
+  <rect width="1200" height="340" fill="url(#glowB)"/>
 
-  <g stroke="#38bdf8" stroke-opacity="0.04" stroke-width="1">
+  <g stroke="#8b5cf6" stroke-opacity="0.04" stroke-width="1">
     <line x1="0" y1="118" x2="1200" y2="118"/>
     <line x1="0" y1="210" x2="1200" y2="210"/>
     <line x1="0" y1="302" x2="1200" y2="302"/>
@@ -39,22 +40,32 @@
   </g>
 
   <rect x="0" y="0" width="1200" height="4" fill="url(#bar)"/>
+  <rect x="0" y="4" width="1200" height="1" fill="#000000" opacity="0.35"/>
 
-  <circle cx="48" cy="50" r="4" fill="#34d399"/>
-  <text x="62" y="55" font-family="'SF Mono', 'JetBrains Mono', Consolas, ui-monospace, monospace" font-size="13" letter-spacing="1" fill="#8fa3bd">OPEN TO INTERNSHIPS &amp; CO-OPS</text>
+  <g stroke="#d4af37" stroke-opacity="0.5" stroke-width="1.4" fill="none">
+    <path d="M28,44 L28,30 L42,30"/>
+    <path d="M1158,30 L1172,30 L1172,44"/>
+    <path d="M28,298 L28,312 L42,312"/>
+    <path d="M1158,312 L1172,312 L1172,298"/>
+  </g>
 
-  <text x="1152" y="55" text-anchor="end" font-family="'SF Mono', 'JetBrains Mono', Consolas, ui-monospace, monospace" font-size="13" letter-spacing="1" fill="#7c92ad">@Meeeeedd</text>
+  <circle cx="48" cy="50" r="4" fill="#d4af37"/>
+  <text x="62" y="55" font-family="'SF Mono', 'JetBrains Mono', Consolas, ui-monospace, monospace" font-size="13" letter-spacing="1" fill="#b6a6e0">OPEN TO INTERNSHIPS &amp; CO-OPS</text>
+
+  <text x="1152" y="55" text-anchor="end" font-family="'SF Mono', 'JetBrains Mono', Consolas, ui-monospace, monospace" font-size="13" letter-spacing="1" fill="#9a87c9">@Meeeeedd</text>
 
   <ellipse cx="600" cy="204" rx="400" ry="86" fill="url(#nameGlow)"/>
 
-  <text x="600" y="158" text-anchor="middle" font-family="'SF Mono', 'JetBrains Mono', Consolas, ui-monospace, monospace" font-size="15" letter-spacing="4" fill="#34d399">~/whoami</text>
+  <text x="600" y="158" text-anchor="middle" font-family="'SF Mono', 'JetBrains Mono', Consolas, ui-monospace, monospace" font-size="15" letter-spacing="4" fill="#e6c66b">~/whoami</text>
 
-  <text x="600" y="222" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', system-ui, sans-serif" font-size="61" font-weight="800" fill="url(#name)">Mohamed Ben Naima</text>
+  <text x="600" y="222" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="58" font-weight="700" letter-spacing="1" fill="url(#gold)">Mohamed Ben Naima</text>
 
-  <rect x="530" y="244" width="140" height="4" rx="2" fill="url(#bar)"/>
-  <rect x="530" y="244" width="140" height="8" rx="4" fill="#34d399" opacity="0.08"/>
+  <text x="522" y="260" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#d4af37">◆</text>
+  <rect x="540" y="246" width="120" height="4" rx="2" fill="url(#bar)"/>
+  <rect x="540" y="246" width="120" height="8" rx="4" fill="#d4af37" opacity="0.10"/>
+  <text x="678" y="260" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#d4af37">◆</text>
 
-  <text x="600" y="292" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', system-ui, sans-serif" font-size="22" fill="#8fa3bd">Full-Stack Developer &#183; Cybersecurity &amp; Cloud Engineer</text>
+  <text x="600" y="292" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', system-ui, sans-serif" font-size="22" fill="#b6a6e0">Full-Stack Developer &#183; Cybersecurity &amp; Cloud Engineer</text>
 
-  <text x="600" y="322" text-anchor="middle" font-family="'SF Mono', 'JetBrains Mono', Consolas, ui-monospace, monospace" font-size="13" letter-spacing="3" fill="#5d7290">MONASTIR, TUNISIA &#183; ESPRIT ENGINEERING SCHOOL</text>
+  <text x="600" y="322" text-anchor="middle" font-family="'SF Mono', 'JetBrains Mono', Consolas, ui-monospace, monospace" font-size="13" letter-spacing="3" fill="#7c6ba6">MONASTIR, TUNISIA &#183; ESPRIT ENGINEERING SCHOOL</text>
 </svg>
