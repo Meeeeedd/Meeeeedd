@@ -58,7 +58,7 @@
 
   <text x="600" y="158" text-anchor="middle" font-family="'SF Mono', 'JetBrains Mono', Consolas, ui-monospace, monospace" font-size="15" letter-spacing="4" fill="#e6c66b">~/whoami</text>
 
-  <text x="600" y="222" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="58" font-weight="700" letter-spacing="1" fill="url(#gold)">Mohamed Ben Naima</text>
+  <text x="600" y="222" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="56" font-weight="700" letter-spacing="0.5" fill="url(#gold)">Mohamed Ben Naima</text>
 
   <text x="522" y="260" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#d4af37">◆</text>
   <rect x="540" y="246" width="120" height="4" rx="2" fill="url(#bar)"/>
@@ -67,5 +67,5 @@
 
   <text x="600" y="292" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', system-ui, sans-serif" font-size="22" fill="#b6a6e0">Full-Stack Developer &#183; Cybersecurity &amp; Cloud Engineer</text>
 
-  <text x="600" y="322" text-anchor="middle" font-family="'SF Mono', 'JetBrains Mono', Consolas, ui-monospace, monospace" font-size="13" letter-spacing="3" fill="#7c6ba6">MONASTIR, TUNISIA &#183; ESPRIT ENGINEERING SCHOOL</text>
+  <text x="600" y="322" text-anchor="middle" font-family="'SF Mono', 'JetBrains Mono', Consolas, ui-monospace, monospace" font-size="13" letter-spacing="3" fill="#7c6ba6">MAHDIA, TUNISIA &#183; ESPRIM ENGINEERING SCHOOL</text>
 </svg>

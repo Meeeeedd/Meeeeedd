@@ -1,7 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/Meeeeedd/Meeeeedd/main/header.svg" width="100%" alt="Mohamed Ben Naima — Full-Stack Developer and Cybersecurity Engineer" /></p>
 
 Cybersecurity & cloud computing engineering student with a passion for building and breaking systems — and a soft spot for ERPs that actually ship.
-🌍 Based in Monastir, Tunisia · ✉️ Medbennaima2021@gmail.com · 🚀 Currently working on **Microtiss Confect** & **Hermes Suite**
+🌍 Based in Mahdia, Tunisia · ✉️ Medbennaima2021@gmail.com · 🚀 Currently working on **Microtiss Confect** & **Hermes Suite**
 
 ---
 
