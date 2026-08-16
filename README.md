@@ -3,10 +3,10 @@
 Cybersecurity & cloud computing engineering student with a passion for building and breaking systems — and a soft spot for ERPs that actually ship.
 🌍 Based in Mahdia, Tunisia · ✉️ Medbennaima2021@gmail.com · 🚀 Currently working on **Microtiss Confect** & **Hermes Suite**
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/Meeeeedd/Meeeeedd/main/divider.svg" width="60%" alt="" /></p>
 
 <p align="center">
-  <b>⚡ Stats ⚡</b>
+  <b>⚡ Stats & Graphs ⚡</b>
 </p>
 
 <p align="center">
@@ -15,67 +15,17 @@ Cybersecurity & cloud computing engineering student with a passion for building 
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Meeeeedd&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=d4af37&icon_color=8b5cf6&text_color=bfb2d6&count_private=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/top-langs/?username=Meeeeedd&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=d4af37&text_color=bfb2d6&langs_count=8" alt="top languages" />
+  <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/top-langs/?username=Meeeeedd&layout=donut&custom_title=Top%20Languages&theme=dark&hide_border=true&bg_color=00000000&title_color=d4af37&text_color=bfb2d6&langs_count=8&hide=html,css&size_weight=0.5&count_weight=0.5&card_width=420" alt="top languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meeeeedd&hide_border=true&background=00000000&ring=d4af37&fire=f1c27d&currStreakNum=d4af37&currStreakLabel=8b5cf6&sideNums=bfb2d6&sideLabels=bfb2d6&dates=bfb2d6" alt="streak" />
 </p>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/Meeeeedd/Meeeeedd/main/divider.svg" width="60%" alt="" /></p>
 
 <p align="center">
-  <b>🚀 Featured Projects 🚀</b>
-</p>
-
-<table>
-  <tr>
-    <td width="50%">
-      <b>🏦 Secured Banking Infrastructure</b>
-      <br/>Microservices banking app on a private OpenStack cloud — dual pfSense firewalls, VLAN segmentation, Kafka, KYC and full observability. <sub><i>ESPRIT Projects Ball nominee.</i></sub>
-      <br/><sub>Spring Boot · Angular · Kafka · GNS3 · Cisco</sub>
-    </td>
-    <td width="50%">
-      <b>🧾 Hermes Suite</b>
-      <br/>Reporting & invoicing dashboard — revenue, orders, top sellers, PDF invoices — evolving into a multi-tenant SaaS.
-      <br/><sub>React · Chakra UI · Express · MongoDB Atlas · Render</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <b>⚡ The Hive</b>
-      <br/>Authenticated REST backend for a trading platform — JWT + OAuth2, OpenAPI docs and Postman test suites.
-      <br/><sub>FastAPI · JWT · OAuth2</sub>
-    </td>
-    <td width="50%">
-      <b>🧭 MiraviaSpace</b>
-      <br/>Travel & social platform (team of 6) — owned the whole client side, including an in-house AI chatbot. <sub><i>Runner-up, ESPRIT Projects Ball.</i></sub>
-      <br/><sub>Symfony · Oracle · JavaFX</sub>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <sub>Some of my best work is private while it ships — check my pinned repos for what's public. 🍳</sub>
-</p>
-
----
-
-<p align="center">
-  <b>🎯 CTF & Hacking 🎯</b>
-</p>
-
-- **2nd & 4th place** — Polytech Sousse CTF
-- **Co-founder, Hunters Club** — 20+ CTF players across Tunisia
-- **2nd place** — Clean & Green Hackathon 2025
-- **Ambassador** — CyberSphere Congress, Hammamet
-- **Certified Red Team Leader** — CLLMSP · CRTOM
-- **CCNA 200-301** — in progress
-
----
-
-<p align="center">
-  <b>⚒️ Languages, Frameworks & Tools ⚒️</b>
+  <b>⚒️ Tech Stack ⚒️</b>
 </p>
 
 <table>
@@ -162,7 +112,83 @@ Cybersecurity & cloud computing engineering student with a passion for building 
   <sub>Also fluent in: JWT · OAuth2 · Keycloak · RBAC · REST/OpenAPI · OpenStack · Kafka · Prometheus · Wireshark · Wazuh · pfSense</sub>
 </p>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/Meeeeedd/Meeeeedd/main/divider.svg" width="60%" alt="" /></p>
+
+<p align="center">
+  <b>🚀 Featured Projects 🚀</b>
+</p>
+
+<table>
+  <tr>
+    <td bgcolor="#0f0d22" width="50%" valign="top" align="left">
+      <b>🏦 Secured Banking Infrastructure</b>
+      <br/><sub>Microservices banking app on a private OpenStack cloud — dual pfSense firewalls, VLAN segmentation, Kafka, KYC and full observability.</sub>
+      <br/><sub><i>ESPRIT Bal de Projet — nominee.</i></sub>
+      <br/><sub>Spring Boot · Angular · Kafka · GNS3 · Cisco</sub>
+    </td>
+    <td bgcolor="#0f0d22" width="50%" valign="top" align="left">
+      <b>🧾 Hermes Suite</b>
+      <br/><sub>Reporting & invoicing dashboard — revenue, orders, top sellers, PDF invoices — evolving into a multi-tenant SaaS.</sub>
+      <br/><sub>React · Chakra UI · Express · MongoDB Atlas · Render</sub>
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#0f0d22" width="50%" valign="top" align="left">
+      <b>⚡ The Hive</b>
+      <br/><sub>Authenticated REST backend for a trading platform — JWT + OAuth2, OpenAPI docs and Postman test suites.</sub>
+      <br/><sub>FastAPI · JWT · OAuth2</sub>
+    </td>
+    <td bgcolor="#0f0d22" width="50%" valign="top" align="left">
+      <b>🧭 MiraviaSpace</b>
+      <br/><sub>Travel & social platform (team of 6) — owned the whole client side, including an in-house AI chatbot.</sub>
+      <br/><sub><i>ESPRIT Bal de Projet — runner-up.</i></sub>
+      <br/><sub>Symfony · Oracle · JavaFX</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub>Some of my best work is private while it ships — check my pinned repos for what's public. 🍳</sub>
+</p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/Meeeeedd/Meeeeedd/main/divider.svg" width="60%" alt="" /></p>
+
+<p align="center">
+  <b>🎯 CTF & Awards 🎯</b>
+</p>
+
+<table>
+  <tr>
+    <td bgcolor="#0f0d22" align="center">
+      <b>🥈 2nd & 4th place</b>
+      <br/><sub>Polytech Sousse CTF</sub>
+    </td>
+    <td bgcolor="#0f0d22" align="center">
+      <b>🏰 Hunters Club</b>
+      <br/><sub>Co-founder · 20+ CTF players across Tunisia</sub>
+    </td>
+    <td bgcolor="#0f0d22" align="center">
+      <b>🌱 2nd place</b>
+      <br/><sub>Clean & Green Hackathon 2025</sub>
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#0f0d22" align="center">
+      <b>🎤 Ambassador</b>
+      <br/><sub>CyberSphere Congress · Hammamet</sub>
+    </td>
+    <td bgcolor="#0f0d22" align="center">
+      <b>🛡️ Red Team Leader</b>
+      <br/><sub>Certified · CLLMSP · CRTOM</sub>
+    </td>
+    <td bgcolor="#0f0d22" align="center">
+      <b>📚 CCNA 200-301</b>
+      <br/><sub>In progress</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><img src="https://raw.githubusercontent.com/Meeeeedd/Meeeeedd/main/divider.svg" width="60%" alt="" /></p>
 
 <p align="center">
   <b>🏆 Trophies 🏆</b>
@@ -173,21 +199,44 @@ Cybersecurity & cloud computing engineering student with a passion for building 
   <br/><sub><code>https://github-profile-trophy.vercel.app/?username=Meeeeedd&theme=radical&no-frame=true&no-bg=true&margin-w=5</code></sub>
 </p>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/Meeeeedd/Meeeeedd/main/divider.svg" width="60%" alt="" /></p>
 
 <p align="center">
-  <b>🐍 My Contributions 🐍</b>
+  <b>🐍 Contributions 🐍</b>
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Meeeeedd/Meeeeedd/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake eating my contributions" />
 </p>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/Meeeeedd/Meeeeedd/main/divider.svg" width="60%" alt="" /></p>
 
 <p align="center">
-  <b>📫 Let's Connect</b>
+  <b>✦ Beyond the Code ✦</b>
 </p>
+
+<table>
+  <tr>
+    <td bgcolor="#0f0d22" width="50%" align="center">
+      <b>🏰 Community Builder</b>
+      <br/><sub>Co-founder of Hunters Club — a 20+ player Tunisian CTF community.</sub>
+    </td>
+    <td bgcolor="#0f0d22" width="50%" align="center">
+      <b>🎤 CyberSphere Congress</b>
+      <br/><sub>Official ambassador, Hammamet.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#0f0d22" width="50%" align="center">
+      <b>⚔️ CTF Partner</b>
+      <br/><sub>Always hunting for teammates and hackathon allies.</sub>
+    </td>
+    <td bgcolor="#0f0d22" width="50%" align="center">
+      <b>🚀 Shipping</b>
+      <br/><sub>Currently building Microtiss Confect & Hermes Suite.</sub>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-ben-naima"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" /></a>
