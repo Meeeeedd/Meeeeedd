@@ -118,27 +118,27 @@ Cybersecurity & cloud computing engineering student with a passion for building 
   <b>🚀 Featured Projects 🚀</b>
 </p>
 
-<table>
+<table align="center" width="100%">
   <tr>
-    <td bgcolor="#0f0d22" width="50%" valign="top" align="left">
+    <td width="50%" valign="top" align="left">
       <b>🏦 Secured Banking Infrastructure</b>
       <br/><sub>Microservices banking app on a private OpenStack cloud — dual pfSense firewalls, VLAN segmentation, Kafka, KYC and full observability.</sub>
       <br/><sub><i>ESPRIT Bal de Projet — nominee.</i></sub>
       <br/><sub>Spring Boot · Angular · Kafka · GNS3 · Cisco</sub>
     </td>
-    <td bgcolor="#0f0d22" width="50%" valign="top" align="left">
+    <td width="50%" valign="top" align="left">
       <b>🧾 Hermes Suite</b>
       <br/><sub>Reporting & invoicing dashboard — revenue, orders, top sellers, PDF invoices — evolving into a multi-tenant SaaS.</sub>
       <br/><sub>React · Chakra UI · Express · MongoDB Atlas · Render</sub>
     </td>
   </tr>
   <tr>
-    <td bgcolor="#0f0d22" width="50%" valign="top" align="left">
+    <td width="50%" valign="top" align="left">
       <b>⚡ The Hive</b>
       <br/><sub>Authenticated REST backend for a trading platform — JWT + OAuth2, OpenAPI docs and Postman test suites.</sub>
       <br/><sub>FastAPI · JWT · OAuth2</sub>
     </td>
-    <td bgcolor="#0f0d22" width="50%" valign="top" align="left">
+    <td width="50%" valign="top" align="left">
       <b>🧭 MiraviaSpace</b>
       <br/><sub>Travel & social platform (team of 6) — owned the whole client side, including an in-house AI chatbot.</sub>
       <br/><sub><i>ESPRIT Bal de Projet — runner-up.</i></sub>
@@ -152,41 +152,6 @@ Cybersecurity & cloud computing engineering student with a passion for building 
 </p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/Meeeeedd/Meeeeedd/main/divider.svg" width="60%" alt="" /></p>
-
-<p align="center">
-  <b>🎯 CTF & Awards 🎯</b>
-</p>
-
-<table>
-  <tr>
-    <td bgcolor="#0f0d22" align="center">
-      <b>🥈 2nd & 4th place</b>
-      <br/><sub>Polytech Sousse CTF</sub>
-    </td>
-    <td bgcolor="#0f0d22" align="center">
-      <b>🏰 Hunters Club</b>
-      <br/><sub>Co-founder · 20+ CTF players across Tunisia</sub>
-    </td>
-    <td bgcolor="#0f0d22" align="center">
-      <b>🌱 2nd place</b>
-      <br/><sub>Clean & Green Hackathon 2025</sub>
-    </td>
-  </tr>
-  <tr>
-    <td bgcolor="#0f0d22" align="center">
-      <b>🎤 Ambassador</b>
-      <br/><sub>CyberSphere Congress · Hammamet</sub>
-    </td>
-    <td bgcolor="#0f0d22" align="center">
-      <b>🛡️ Red Team Leader</b>
-      <br/><sub>Certified · CLLMSP · CRTOM</sub>
-    </td>
-    <td bgcolor="#0f0d22" align="center">
-      <b>📚 CCNA 200-301</b>
-      <br/><sub>In progress</sub>
-    </td>
-  </tr>
-</table>
 
 <p align="center"><img src="https://raw.githubusercontent.com/Meeeeedd/Meeeeedd/main/divider.svg" width="60%" alt="" /></p>
 
@@ -215,23 +180,19 @@ Cybersecurity & cloud computing engineering student with a passion for building 
   <b>✦ Beyond the Code ✦</b>
 </p>
 
-<table>
+<table align="center" width="100%">
   <tr>
-    <td bgcolor="#0f0d22" width="50%" align="center">
+    <td width="50%" align="center" valign="top">
       <b>🏰 Community Builder</b>
       <br/><sub>Co-founder of Hunters Club — a 20+ player Tunisian CTF community.</sub>
     </td>
-    <td bgcolor="#0f0d22" width="50%" align="center">
-      <b>🎤 CyberSphere Congress</b>
-      <br/><sub>Official ambassador, Hammamet.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td bgcolor="#0f0d22" width="50%" align="center">
+    <td width="50%" align="center" valign="top">
       <b>⚔️ CTF Partner</b>
       <br/><sub>Always hunting for teammates and hackathon allies.</sub>
     </td>
-    <td bgcolor="#0f0d22" width="50%" align="center">
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
       <b>🚀 Shipping</b>
       <br/><sub>Currently building Microtiss Confect & Hermes Suite.</sub>
     </td>
