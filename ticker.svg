@@ -5,10 +5,10 @@
       <stop offset="1" stop-color="#a78bfa"/>
     </linearGradient>
   </defs>
-  <g font-family="'SF Mono', 'JetBrains Mono', Consolas, ui-monospace, monospace" font-size="15" letter-spacing="1" fill="url(#tg)">
+  <g font-family="'SF Mono', 'JetBrains Mono', Consolas, ui-monospace, monospace" font-size="15" letter-spacing="3" fill="url(#tg)">
     <g>
-      <text x="40" y="30">secure the stack · ship the vision ✦ full-stack · cloud · cybersecurity ✦ CTFs · hackathons · communities ✦ based in mahdia · building globally ✦ </text>
-      <text x="1940" y="30">secure the stack · ship the vision ✦ full-stack · cloud · cybersecurity ✦ CTFs · hackathons · communities ✦ based in mahdia · building globally ✦ </text>
+      <text x="0" y="30" textLength="1900" lengthAdjust="spacing">SECURE THE STACK · SHIP THE VISION ✦ FULL-STACK · CLOUD · CYBERSECURITY ✦ CTFS · HACKATHONS · COMMUNITIES ✦ BASED IN MAHDIA · BUILDING GLOBALLY ✦ </text>
+      <text x="1900" y="30" textLength="1900" lengthAdjust="spacing">SECURE THE STACK · SHIP THE VISION ✦ FULL-STACK · CLOUD · CYBERSECURITY ✦ CTFS · HACKATHONS · COMMUNITIES ✦ BASED IN MAHDIA · BUILDING GLOBALLY ✦ </text>
       <animateTransform attributeName="transform" type="translate" from="0,0" to="-1900,0" dur="26s" repeatCount="indefinite"/>
     </g>
   </g>

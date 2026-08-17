@@ -5,7 +5,15 @@
       <stop offset="0.5" stop-color="#ecd28c"/>
       <stop offset="1" stop-color="#c99842"/>
     </linearGradient>
+  <linearGradient id="f" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#d4af37" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#d4af37" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#d4af37" stop-opacity="0"/>
+    </linearGradient>
   </defs>
   <text x="600" y="35" text-anchor="middle" font-family="'Playfair Display','Cormorant Garamond',Georgia,serif" font-size="24" font-weight="700" letter-spacing="3" fill="url(#g)">✦  ⚡ STATS ⚡  ✦</text>
-  <rect x="480" y="46" width="240" height="1.5" fill="#d4af37" opacity="0.35"/>
+  <line x1="480" y1="46" x2="720" y2="46" stroke="url(#f)" stroke-width="1"/>
+  <circle cx="588" cy="46" r="1" fill="#d4af37"/>
+  <circle cx="612" cy="46" r="1" fill="#d4af37"/>
+  <text x="600" y="48" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#d4af37">◆</text>
 </svg>

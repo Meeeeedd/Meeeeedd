@@ -10,5 +10,5 @@
   <line x1="442" y1="12" x2="800" y2="12" stroke="url(#fade)" stroke-width="1"/>
   <circle cx="380" cy="12" r="1.6" fill="#d4af37"/>
   <circle cx="420" cy="12" r="1.6" fill="#d4af37"/>
-  <text x="400" y="17" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#d4af37">◆</text>
+  <text x="400" y="16" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#d4af37">◆</text>
 </svg>
