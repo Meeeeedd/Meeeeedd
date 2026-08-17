@@ -1,4 +1,4 @@
-<p align="center"><img src="hero.svg?v=5" width="100%" alt="Mohamed Ben Naima — Full-Stack Developer and Cybersecurity Engineer" /></p>
+<p align="center"><img src="hero.svg" width="100%" alt="Mohamed Ben Naima — Full-Stack Developer and Cybersecurity Engineer" /></p>
 
 <p align="center">
   <i>Cybersecurity &amp; cloud computing engineering student with a passion for building and breaking systems — and a soft spot for ERPs that actually ship.</i>
@@ -16,11 +16,11 @@
   <sub>🎓 Seeking a PFE internship to wrap up my end-of-year engineering cycle.</sub>
 </p>
 
-<p align="center"><img src="ticker.svg?v=5" width="80%" alt="Rotating taglines" /></p>
+<p align="center"><img src="ticker.svg" width="80%" alt="Rotating taglines" /></p>
 
-<p align="center"><img src="divider.svg?v=5" width="60%" alt="" /></p>
+<p align="center"><img src="divider.svg" width="60%" alt="" /></p>
 
-<p align="center"><img src="h-stats.svg?v=5" width="60%" alt="Stats" /></p>
+<p align="center"><img src="h-stats.svg" width="60%" alt="Stats" /></p>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username={{OWNER}}&show_icons=true&theme=dark&hide_border=true&bg_color=0b0818&title_color=d4af37&icon_color=8b5cf6&text_color=bfb2d6&count_private=true" alt="stats" />
@@ -34,9 +34,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={{OWNER}}&theme=github_dark" width="100%" alt="profile details" />
 </p>
 
-<p align="center"><img src="divider.svg?v=5" width="60%" alt="" /></p>
+<p align="center"><img src="divider.svg" width="60%" alt="" /></p>
 
-<p align="center"><img src="h-stack.svg?v=5" width="60%" alt="Tech Stack" /></p>
+<p align="center"><img src="h-stack.svg" width="60%" alt="Tech Stack" /></p>
 
 <table>
   <tr>
@@ -122,9 +122,9 @@
   <sub>Also fluent in: JWT · OAuth2 · Keycloak · RBAC · REST/OpenAPI · OpenStack · Kafka · Prometheus · Wireshark · Wazuh · pfSense</sub>
 </p>
 
-<p align="center"><img src="divider.svg?v=5" width="60%" alt="" /></p>
+<p align="center"><img src="divider.svg" width="60%" alt="" /></p>
 
-<p align="center"><img src="h-projects.svg?v=5" width="60%" alt="Featured Work" /></p>
+<p align="center"><img src="h-projects.svg" width="60%" alt="Featured Work" /></p>
 
 <table align="center" width="100%">
   <tr>
@@ -159,9 +159,9 @@
   <sub>Some of my best work is private while it ships — check my pinned repos for what's public. 🍳</sub>
 </p>
 
-<p align="center"><img src="divider.svg?v=5" width="60%" alt="" /></p>
+<p align="center"><img src="divider.svg" width="60%" alt="" /></p>
 
-<p align="center"><img src="h-trophies.svg?v=5" width="60%" alt="Trophies" /></p>
+<p align="center"><img src="h-trophies.svg" width="60%" alt="Trophies" /></p>
 
 <p align="center">
   <sub>Trophy widget temporarily unavailable — the github-profile-trophy service is down right now.</sub>
@@ -175,17 +175,17 @@
   </p>
 </details>
 
-<p align="center"><img src="divider.svg?v=5" width="60%" alt="" /></p>
+<p align="center"><img src="divider.svg" width="60%" alt="" /></p>
 
-<p align="center"><img src="h-snake.svg?v=5" width="60%" alt="Contributions" /></p>
+<p align="center"><img src="h-snake.svg" width="60%" alt="Contributions" /></p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/{{OWNER}}/{{REPO}}/output/github-contribution-grid-snake-dark.svg?v=5" width="100%" alt="snake eating my contributions" />
+  <img src="https://raw.githubusercontent.com/{{OWNER}}/{{REPO}}/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake eating my contributions" />
 </p>
 
-<p align="center"><img src="divider.svg?v=5" width="60%" alt="" /></p>
+<p align="center"><img src="divider.svg" width="60%" alt="" /></p>
 
-<p align="center"><img src="h-beyond.svg?v=5" width="60%" alt="Beyond the Code" /></p>
+<p align="center"><img src="h-beyond.svg" width="60%" alt="Beyond the Code" /></p>
 
 <p align="center">
   <sub>Life outside the terminal.</sub>
