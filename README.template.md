@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user={{OWNER}}&hide_border=true&background=00000000&ring=d4af37&fire=f1c27d&currStreakNum=d4af37&currStreakLabel=8b5cf6&sideNums=bfb2d6&sideLabels=bfb2d6&dates=bfb2d6" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user={{OWNER}}&hide_border=true&background=00000000&ring=d4af37&fire=f1c27d&currStreakNum=d4af37&currStreakLabel=8b5cf6&sideNums=bfb2d6&sideLabels=bfb2d6&dates=bfb2d6" alt="streak" />
 </p>
 
 <p align="center">
