@@ -1,0 +1,36 @@
+name: render-readme
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: render-readme
+  cancel-in-progress: false
+
+jobs:
+  render:
+    name: Render README from template
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Inject owner and repo into outputs
+        run: |
+          OWNER="${{ github.repository_owner }}"
+          REPO="${{ github.event.repository.name }}"
+          sed -e "s/{{OWNER}}/$OWNER/g" -e "s/{{REPO}}/$REPO/g" README.template.md > README.md
+          sed -e "s/{{OWNER}}/$OWNER/g" header.template.svg > header.svg
+
+      - name: Commit rendered outputs if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md header.svg
+          git diff --cached --quiet || git commit -m "chore: regenerate README from template"
+          git push
