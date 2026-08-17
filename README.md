@@ -19,20 +19,20 @@
 <p align="center"><img src="h-stats.svg" width="60%" alt="Stats" /></p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Meeeeedd&theme=github_dark" width="100%" alt="profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohamed-Ben-Naima&theme=github_dark" width="100%" alt="profile details" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Meeeeedd&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=d4af37&icon_color=8b5cf6&text_color=bfb2d6&count_private=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/top-langs/?username=Meeeeedd&layout=donut&custom_title=Top%20Languages&theme=dark&hide_border=true&bg_color=00000000&title_color=d4af37&text_color=bfb2d6&langs_count=8&hide=html,css&size_weight=0.5&count_weight=0.5&card_width=420" alt="top languages" />
+  <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Mohamed-Ben-Naima&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=d4af37&icon_color=8b5cf6&text_color=bfb2d6&count_private=true" alt="stats" />
+  <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/top-langs/?username=Mohamed-Ben-Naima&layout=donut&custom_title=Top%20Languages&theme=dark&hide_border=true&bg_color=00000000&title_color=d4af37&text_color=bfb2d6&langs_count=8&hide=html,css&size_weight=0.5&count_weight=0.5&card_width=420" alt="top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meeeeedd&hide_border=true&background=00000000&ring=d4af37&fire=f1c27d&currStreakNum=d4af37&currStreakLabel=8b5cf6&sideNums=bfb2d6&sideLabels=bfb2d6&dates=bfb2d6" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Ben-Naima&hide_border=true&background=00000000&ring=d4af37&fire=f1c27d&currStreakNum=d4af37&currStreakLabel=8b5cf6&sideNums=bfb2d6&sideLabels=bfb2d6&dates=bfb2d6" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Meeeeedd&bg_color=00000000&color=d4af37&line=8b5cf6&point=e6c66b&area_color=171233&area=true&hide_border=true&radius=8&height=300" width="100%" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Ben-Naima&bg_color=00000000&color=d4af37&line=8b5cf6&point=e6c66b&area_color=171233&area=true&hide_border=true&radius=8&height=300" width="100%" alt="activity graph" />
 </p>
 
 <p align="center"><img src="divider.svg" width="60%" alt="" /></p>
@@ -172,7 +172,7 @@
   <summary>Enable trophies when the service returns</summary>
 
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Meeeeedd&theme=radical&no-frame=true&no-bg=true&margin-w=5" alt="trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Mohamed-Ben-Naima&theme=radical&no-frame=true&no-bg=true&margin-w=5" alt="trophies" />
   </p>
 </details>
 
@@ -181,7 +181,7 @@
 <p align="center"><img src="h-snake.svg" width="60%" alt="Contributions" /></p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Meeeeedd/Meeeeedd/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake eating my contributions" />
+  <img src="https://raw.githubusercontent.com/Mohamed-Ben-Naima/Mohamed-Ben-Naima/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake eating my contributions" />
 </p>
 
 <p align="center"><img src="divider.svg" width="60%" alt="" /></p>
@@ -218,11 +218,11 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-ben-naima"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=8b5cf6" alt="LinkedIn" /></a>
   <a href="mailto:Medbennaima2021@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=d4af37" alt="Email" /></a>
-  <a href="https://github.com/Meeeeedd"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=bfb2d6" alt="GitHub" /></a>
+  <a href="https://github.com/Mohamed-Ben-Naima"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=bfb2d6" alt="GitHub" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Meeeeedd&style=flat-square&color=d4af37&label=profile+views" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Mohamed-Ben-Naima&style=flat-square&color=d4af37&label=profile+views" alt="profile views" />
 </p>
 
 <p align="center">

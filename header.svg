@@ -65,7 +65,7 @@
   </g>
   <text x="70" y="55" font-family="'SF Mono', 'JetBrains Mono', Consolas, ui-monospace, monospace" font-size="13" letter-spacing="1" fill="#b6a6e0">OPEN TO INTERNSHIPS &amp; CO-OPS</text>
 
-  <text x="1152" y="55" text-anchor="end" font-family="'SF Mono', 'JetBrains Mono', Consolas, ui-monospace, monospace" font-size="13" letter-spacing="1" fill="#9a87c9">@Meeeeedd</text>
+  <text x="1152" y="55" text-anchor="end" font-family="'SF Mono', 'JetBrains Mono', Consolas, ui-monospace, monospace" font-size="13" letter-spacing="1" fill="#9a87c9">@Mohamed-Ben-Naima</text>
 
   <ellipse cx="600" cy="204" rx="400" ry="86" fill="url(#nameGlow)"><animate attributeName="opacity" values="1;0.5;1" dur="6s" repeatCount="indefinite"/></ellipse>
 
