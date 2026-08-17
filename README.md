@@ -188,21 +188,29 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/Meeeeedd/Meeeeedd/main/h-beyond.svg" width="60%" alt="Beyond the Code" /></p>
 
+<p align="center">
+  <sub>Life outside the terminal.</sub>
+</p>
+
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <b>🏰 Community Builder</b>
-      <br/><sub>Co-founder of Hunters Club — a 20+ player Tunisian CTF community.</sub>
+      <b>🏋️ Gym</b>
+      <br/><sub>Discipline — in the terminal and out of it.</sub>
     </td>
     <td width="50%" align="center" valign="top">
-      <b>⚔️ CTF Partner</b>
-      <br/><sub>Always hunting for teammates and hackathon allies.</sub>
+      <b>♟️ Chess</b>
+      <br/><sub>Thinking several moves ahead, like hunting down an edge case.</sub>
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" valign="top">
-      <b>🚀 Shipping</b>
-      <br/><sub>Currently building Microtiss Confect & Hermes Suite.</sub>
+    <td width="50%" align="center" valign="top">
+      <b>📚 Books</b>
+      <br/><sub>Security, systems — and the odd page of fiction.</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <b>🥊 Kickboxing</b>
+      <br/><sub>Problem-solving with solid form.</sub>
     </td>
   </tr>
 </table>
