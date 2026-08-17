@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="52" viewBox="0 0 1200 52" role="img" aria-label="Trophies">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fbf3d9"/>
+      <stop offset="0.5" stop-color="#ecd28c"/>
+      <stop offset="1" stop-color="#c99842"/>
+    </linearGradient>
+  </defs>
+  <text x="600" y="35" text-anchor="middle" font-family="'Playfair Display','Cormorant Garamond',Georgia,serif" font-size="24" font-weight="700" letter-spacing="3" fill="url(#g)">✦  🏆 TROPHIES 🏆  ✦</text>
+  <rect x="480" y="46" width="240" height="1.5" fill="#d4af37" opacity="0.35"/>
+</svg>

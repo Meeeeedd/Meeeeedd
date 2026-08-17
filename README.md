@@ -3,11 +3,11 @@
 Cybersecurity & cloud computing engineering student with a passion for building and breaking systems — and a soft spot for ERPs that actually ship.
 🌍 Based in Mahdia, Tunisia · ✉️ Medbennaima2021@gmail.com · 🚀 Currently working on **Microtiss Confect** & **Hermes Suite**
 
+<p align="center"><img src="https://raw.githubusercontent.com/Meeeeedd/Meeeeedd/main/ticker.svg" width="80%" alt="Rotating taglines" /></p>
+
 <p align="center"><img src="https://raw.githubusercontent.com/Meeeeedd/Meeeeedd/main/divider.svg" width="60%" alt="" /></p>
 
-<p align="center">
-  <b>⚡ Stats & Graphs ⚡</b>
-</p>
+<p align="center"><img src="https://raw.githubusercontent.com/Meeeeedd/Meeeeedd/main/h-stats.svg" width="60%" alt="Stats" /></p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Meeeeedd&theme=github_dark" width="100%" alt="profile details" />
@@ -22,11 +22,13 @@ Cybersecurity & cloud computing engineering student with a passion for building 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meeeeedd&hide_border=true&background=00000000&ring=d4af37&fire=f1c27d&currStreakNum=d4af37&currStreakLabel=8b5cf6&sideNums=bfb2d6&sideLabels=bfb2d6&dates=bfb2d6" alt="streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Meeeeedd&bg_color=00000000&color=d4af37&line=8b5cf6&point=e6c66b&area_color=171233&area=true&hide_border=true&radius=8&height=300" width="100%" alt="activity graph" />
+</p>
+
 <p align="center"><img src="https://raw.githubusercontent.com/Meeeeedd/Meeeeedd/main/divider.svg" width="60%" alt="" /></p>
 
-<p align="center">
-  <b>⚒️ Tech Stack ⚒️</b>
-</p>
+<p align="center"><img src="https://raw.githubusercontent.com/Meeeeedd/Meeeeedd/main/h-stack.svg" width="60%" alt="Tech Stack" /></p>
 
 <table>
   <tr>
@@ -114,9 +116,7 @@ Cybersecurity & cloud computing engineering student with a passion for building 
 
 <p align="center"><img src="https://raw.githubusercontent.com/Meeeeedd/Meeeeedd/main/divider.svg" width="60%" alt="" /></p>
 
-<p align="center">
-  <b>🚀 Featured Projects 🚀</b>
-</p>
+<p align="center"><img src="https://raw.githubusercontent.com/Meeeeedd/Meeeeedd/main/h-projects.svg" width="60%" alt="Featured Work" /></p>
 
 <table align="center" width="100%">
   <tr>
@@ -153,22 +153,23 @@ Cybersecurity & cloud computing engineering student with a passion for building 
 
 <p align="center"><img src="https://raw.githubusercontent.com/Meeeeedd/Meeeeedd/main/divider.svg" width="60%" alt="" /></p>
 
+<p align="center"><img src="https://raw.githubusercontent.com/Meeeeedd/Meeeeedd/main/h-trophies.svg" width="60%" alt="Trophies" /></p>
+
+<p align="center">
+  <sub>Trophy widget temporarily unavailable — the github-profile-trophy service is down right now.</sub>
+</p>
+
+<details>
+  <summary>Enable trophies when the service returns</summary>
+
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Meeeeedd&theme=radical&no-frame=true&no-bg=true&margin-w=5" alt="trophies" />
+  </p>
+</details>
+
 <p align="center"><img src="https://raw.githubusercontent.com/Meeeeedd/Meeeeedd/main/divider.svg" width="60%" alt="" /></p>
 
-<p align="center">
-  <b>🏆 Trophies 🏆</b>
-</p>
-
-<p align="center">
-  <sub>trophy widget temporarily unavailable — the service (github-profile-trophy) is down right now. Add this line when it's back:</sub>
-  <br/><sub><code>https://github-profile-trophy.vercel.app/?username=Meeeeedd&theme=radical&no-frame=true&no-bg=true&margin-w=5</code></sub>
-</p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/Meeeeedd/Meeeeedd/main/divider.svg" width="60%" alt="" /></p>
-
-<p align="center">
-  <b>🐍 Contributions 🐍</b>
-</p>
+<p align="center"><img src="https://raw.githubusercontent.com/Meeeeedd/Meeeeedd/main/h-snake.svg" width="60%" alt="Contributions" /></p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Meeeeedd/Meeeeedd/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake eating my contributions" />
@@ -176,9 +177,7 @@ Cybersecurity & cloud computing engineering student with a passion for building 
 
 <p align="center"><img src="https://raw.githubusercontent.com/Meeeeedd/Meeeeedd/main/divider.svg" width="60%" alt="" /></p>
 
-<p align="center">
-  <b>✦ Beyond the Code ✦</b>
-</p>
+<p align="center"><img src="https://raw.githubusercontent.com/Meeeeedd/Meeeeedd/main/h-beyond.svg" width="60%" alt="Beyond the Code" /></p>
 
 <table align="center" width="100%">
   <tr>
@@ -200,9 +199,13 @@ Cybersecurity & cloud computing engineering student with a passion for building 
 </table>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-ben-naima"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" /></a>
-  <a href="mailto:Medbennaima2021@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=34d399" alt="Email" /></a>
-  <a href="https://github.com/Meeeeedd"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-ben-naima"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=8b5cf6" alt="LinkedIn" /></a>
+  <a href="mailto:Medbennaima2021@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=d4af37" alt="Email" /></a>
+  <a href="https://github.com/Meeeeedd"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=bfb2d6" alt="GitHub" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Meeeeedd&style=flat-square&color=d4af37&label=profile+views" alt="profile views" />
 </p>
 
 <p align="center">
