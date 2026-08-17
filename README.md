@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohamed-Ben-Naima&theme=github_dark" width="100%" alt="profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohamed-Ben-Naima&theme=shades_of_purple" width="100%" alt="profile details" />
 </p>
 
 <p align="center"><img src="divider.svg" width="60%" alt="" /></p>
@@ -167,18 +167,6 @@
 
 <p align="center"><img src="h-trophies.svg" width="60%" alt="Trophies" /></p>
 
-<p align="center">
-  <sub>Trophy widget temporarily unavailable — the github-profile-trophy service is down right now.</sub>
-</p>
-
-<details>
-  <summary>Enable trophies when the service returns</summary>
-
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mohamed-Ben-Naima&theme=radical&no-frame=true&no-bg=true&margin-w=5" alt="trophies" />
-  </p>
-</details>
-
 <p align="center"><img src="divider.svg" width="60%" alt="" /></p>
 
 <p align="center"><img src="h-snake.svg" width="60%" alt="Contributions" /></p>
@@ -224,6 +212,7 @@
   <a href="https://raw.githubusercontent.com/Mohamed-Ben-Naima/Mohamed-Ben-Naima/main/cv.pdf"><img src="https://img.shields.io/badge/CV-0d1117?style=for-the-badge&logo=adobeacrobatreader&logoColor=d4af37" alt="CV" /></a>
   <a href="mailto:Medbennaima2021@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=d4af37" alt="Email" /></a>
   <a href="https://github.com/Mohamed-Ben-Naima"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=bfb2d6" alt="GitHub" /></a>
+  <a href="https://tryhackme.com/p/medbennaima2021"><img src="https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=8b5cf6" alt="TryHackMe" /></a>
 </p>
 
 <p align="center">
