@@ -1,19 +1,19 @@
-<p align="center"><img src="hero.svg" width="100%" alt="Mohamed Ben Naima — Full-Stack Developer and Cybersecurity Engineer" /></p>
+﻿<p align="center"><img src="hero.svg" width="100%" alt="Mohamed Ben Naima â€” Full-Stack Developer and Cybersecurity Engineer" /></p>
 
 <p align="center">
-  <i>Cybersecurity &amp; cloud computing engineering student with a passion for building and breaking systems — and a soft spot for ERPs that actually ship.</i>
+  <i>Cybersecurity &amp; cloud computing engineering student with a passion for building and breaking systems â€” and a soft spot for ERPs that actually ship.</i>
 </p>
 
 <table align="center" width="72%">
   <tr>
-    <td align="center">🌍 <b>Mahdia, Tunisia</b></td>
-    <td align="center">✉️ <b>Medbennaima2021@gmail.com</b></td>
-    <td align="center">🚀 <b>Microtiss Confect &amp; Hermes Suite</b></td>
+    <td align="center">ðŸŒ <b>Mahdia, Tunisia</b></td>
+    <td align="center">âœ‰ï¸ <b>Medbennaima2021@gmail.com</b></td>
+    <td align="center">ðŸš€ <b>Microtiss Confect &amp; Hermes Suite</b></td>
   </tr>
 </table>
 
 <p align="center">
-  <sub>🎓 Seeking a PFE internship to wrap up my end-of-year engineering cycle.</sub>
+  <sub>ðŸŽ“ Seeking a PFE internship to wrap up my end-of-year engineering cycle.</sub>
 </p>
 
 <p align="center"><img src="ticker.svg" width="80%" alt="Rotating taglines" /></p>
@@ -23,20 +23,20 @@
 <p align="center"><img src="h-stats.svg" width="60%" alt="Stats" /></p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Mohamed-Ben-Naima&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=d4af37&icon_color=8b5cf6&text_color=bfb2d6&count_private=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/top-langs/?username=Mohamed-Ben-Naima&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=d4af37&text_color=bfb2d6&langs_count=8&hide=html,css&size_weight=0.5&count_weight=0.5&card_width=460" alt="top languages" />
+  <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Meeeeedd&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=d4af37&icon_color=8b5cf6&text_color=bfb2d6&count_private=true" alt="stats" />
+  <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/top-langs/?username=Meeeeedd&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=d4af37&text_color=bfb2d6&langs_count=8&hide=html,css&size_weight=0.5&count_weight=0.5&card_width=460" alt="top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Ben-Naima&hide_border=true&background=00000000&ring=d4af37&fire=f1c27d&currStreakNum=d4af37&currStreakLabel=8b5cf6&sideNums=bfb2d6&sideLabels=bfb2d6&dates=bfb2d6" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meeeeedd&hide_border=true&background=00000000&ring=d4af37&fire=f1c27d&currStreakNum=d4af37&currStreakLabel=8b5cf6&sideNums=bfb2d6&sideLabels=bfb2d6&dates=bfb2d6" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Ben-Naima&bg_color=00000000&color=d4af37&line=8b5cf6&point=e6c66b&area_color=171233&area=true&hide_border=true&radius=8&height=300" width="100%" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Meeeeedd&bg_color=00000000&color=d4af37&line=8b5cf6&point=e6c66b&area_color=171233&area=true&hide_border=true&radius=8&height=300" width="100%" alt="activity graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohamed-Ben-Naima&theme=github_dark" width="100%" alt="profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Meeeeedd&theme=github_dark" width="100%" alt="profile details" />
 </p>
 
 <p align="center"><img src="divider.svg" width="60%" alt="" /></p>
@@ -45,7 +45,7 @@
 
 <table>
   <tr>
-    <td width="170" align="left" valign="top"><b>💻 Languages</b></td>
+    <td width="170" align="left" valign="top"><b>ðŸ’» Languages</b></td>
     <td align="left">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -60,7 +60,7 @@
     </td>
   </tr>
   <tr>
-    <td width="170" align="left" valign="top"><b>🎨 Frontend</b></td>
+    <td width="170" align="left" valign="top"><b>ðŸŽ¨ Frontend</b></td>
     <td align="left">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -72,7 +72,7 @@
     </td>
   </tr>
   <tr>
-    <td width="170" align="left" valign="top"><b>⚙️ Backend & APIs</b></td>
+    <td width="170" align="left" valign="top"><b>âš™ï¸ Backend & APIs</b></td>
     <td align="left">
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
       <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
@@ -83,7 +83,7 @@
     </td>
   </tr>
   <tr>
-    <td width="170" align="left" valign="top"><b>🗄️ Databases</b></td>
+    <td width="170" align="left" valign="top"><b>ðŸ—„ï¸ Databases</b></td>
     <td align="left">
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -92,7 +92,7 @@
     </td>
   </tr>
   <tr>
-    <td width="170" align="left" valign="top"><b>☁️ Cloud · DevOps · CI/CD</b></td>
+    <td width="170" align="left" valign="top"><b>â˜ï¸ Cloud Â· DevOps Â· CI/CD</b></td>
     <td align="left">
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
@@ -107,7 +107,7 @@
     </td>
   </tr>
   <tr>
-    <td width="170" align="left" valign="top"><b>🧰 Tools & Workflow</b></td>
+    <td width="170" align="left" valign="top"><b>ðŸ§° Tools & Workflow</b></td>
     <td align="left">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -124,7 +124,7 @@
 </table>
 
 <p align="center">
-  <sub>Also fluent in: JWT · OAuth2 · Keycloak · RBAC · REST/OpenAPI · OpenStack · Kafka · Prometheus · Wireshark · Wazuh · pfSense</sub>
+  <sub>Also fluent in: JWT Â· OAuth2 Â· Keycloak Â· RBAC Â· REST/OpenAPI Â· OpenStack Â· Kafka Â· Prometheus Â· Wireshark Â· Wazuh Â· pfSense</sub>
 </p>
 
 <p align="center"><img src="divider.svg" width="60%" alt="" /></p>
@@ -134,34 +134,34 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top" align="left">
-      <b>🏦 Secured Banking Infrastructure</b>
-      <br/><sub>Microservices banking app on a private OpenStack cloud — dual pfSense firewalls, VLAN segmentation, Kafka, KYC and full observability.</sub>
-      <br/><sub><i>ESPRIT Bal de Projet — nominee.</i></sub>
-      <br/><sub>Spring Boot · Angular · Kafka · GNS3 · Cisco</sub>
+      <b>ðŸ¦ Secured Banking Infrastructure</b>
+      <br/><sub>Microservices banking app on a private OpenStack cloud â€” dual pfSense firewalls, VLAN segmentation, Kafka, KYC and full observability.</sub>
+      <br/><sub><i>ESPRIT Bal de Projet â€” nominee.</i></sub>
+      <br/><sub>Spring Boot Â· Angular Â· Kafka Â· GNS3 Â· Cisco</sub>
     </td>
     <td width="50%" valign="top" align="left">
-      <b>🧾 Hermes Suite</b>
-      <br/><sub>Reporting & invoicing dashboard — revenue, orders, top sellers, PDF invoices — evolving into a multi-tenant SaaS.</sub>
-      <br/><sub>React · Chakra UI · Express · MongoDB Atlas · Render</sub>
+      <b>ðŸ§¾ Hermes Suite</b>
+      <br/><sub>Reporting & invoicing dashboard â€” revenue, orders, top sellers, PDF invoices â€” evolving into a multi-tenant SaaS.</sub>
+      <br/><sub>React Â· Chakra UI Â· Express Â· MongoDB Atlas Â· Render</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="left">
-      <b>⚡ The Hive</b>
-      <br/><sub>Authenticated REST backend for a trading platform — JWT + OAuth2, OpenAPI docs and Postman test suites.</sub>
-      <br/><sub>FastAPI · JWT · OAuth2</sub>
+      <b>âš¡ The Hive</b>
+      <br/><sub>Authenticated REST backend for a trading platform â€” JWT + OAuth2, OpenAPI docs and Postman test suites.</sub>
+      <br/><sub>FastAPI Â· JWT Â· OAuth2</sub>
     </td>
     <td width="50%" valign="top" align="left">
-      <b>🧭 MiraviaSpace</b>
-      <br/><sub>Travel & social platform (team of 6) — owned the whole client side, including an in-house AI chatbot.</sub>
-      <br/><sub><i>ESPRIT Bal de Projet — runner-up.</i></sub>
-      <br/><sub>Symfony · Oracle · JavaFX</sub>
+      <b>ðŸ§­ MiraviaSpace</b>
+      <br/><sub>Travel & social platform (team of 6) â€” owned the whole client side, including an in-house AI chatbot.</sub>
+      <br/><sub><i>ESPRIT Bal de Projet â€” runner-up.</i></sub>
+      <br/><sub>Symfony Â· Oracle Â· JavaFX</sub>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <sub>Some of my best work is private while it ships — check my pinned repos for what's public. 🍳</sub>
+  <sub>Some of my best work is private while it ships â€” check my pinned repos for what's public. ðŸ³</sub>
 </p>
 
 <p align="center"><img src="divider.svg" width="60%" alt="" /></p>
@@ -169,14 +169,14 @@
 <p align="center"><img src="h-trophies.svg" width="60%" alt="Trophies" /></p>
 
 <p align="center">
-  <sub>Trophy widget temporarily unavailable — the github-profile-trophy service is down right now.</sub>
+  <sub>Trophy widget temporarily unavailable â€” the github-profile-trophy service is down right now.</sub>
 </p>
 
 <details>
   <summary>Enable trophies when the service returns</summary>
 
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mohamed-Ben-Naima&theme=radical&no-frame=true&no-bg=true&margin-w=5" alt="trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Meeeeedd&theme=radical&no-frame=true&no-bg=true&margin-w=5" alt="trophies" />
   </p>
 </details>
 
@@ -185,7 +185,7 @@
 <p align="center"><img src="h-snake.svg" width="60%" alt="Contributions" /></p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mohamed-Ben-Naima/Mohamed-Ben-Naima/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake eating my contributions" />
+  <img src="https://raw.githubusercontent.com/Meeeeedd/Meeeeedd/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake eating my contributions" />
 </p>
 
 <p align="center"><img src="divider.svg" width="60%" alt="" /></p>
@@ -199,21 +199,21 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <b>🏋️ Gym</b>
-      <br/><sub>Discipline — in the terminal and out of it.</sub>
+      <b>ðŸ‹ï¸ Gym</b>
+      <br/><sub>Discipline â€” in the terminal and out of it.</sub>
     </td>
     <td width="50%" align="center" valign="top">
-      <b>♟️ Chess</b>
+      <b>â™Ÿï¸ Chess</b>
       <br/><sub>Thinking several moves ahead, like hunting down an edge case.</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <b>📚 Books</b>
-      <br/><sub>Security, systems — and the odd page of fiction.</sub>
+      <b>ðŸ“š Books</b>
+      <br/><sub>Security, systems â€” and the odd page of fiction.</sub>
     </td>
     <td width="50%" align="center" valign="top">
-      <b>🥊 Kickboxing</b>
+      <b>ðŸ¥Š Kickboxing</b>
       <br/><sub>Problem-solving with solid form.</sub>
     </td>
   </tr>
@@ -222,13 +222,13 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-ben-naima"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=8b5cf6" alt="LinkedIn" /></a>
   <a href="mailto:Medbennaima2021@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=d4af37" alt="Email" /></a>
-  <a href="https://github.com/Mohamed-Ben-Naima"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=bfb2d6" alt="GitHub" /></a>
+  <a href="https://github.com/Meeeeedd"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=bfb2d6" alt="GitHub" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohamed-Ben-Naima&style=flat-square&color=d4af37&label=profile+views" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Meeeeedd&style=flat-square&color=d4af37&label=profile+views" alt="profile views" />
 </p>
 
 <p align="center">
-  <sub>Seeking a PFE internship — open to collaborations and CTF partners in Tunisia and beyond. ⚡</sub>
+  <sub>Seeking a PFE internship â€” open to collaborations and CTF partners in Tunisia and beyond. âš¡</sub>
 </p>
