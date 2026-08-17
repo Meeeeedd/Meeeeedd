@@ -1,4 +1,4 @@
-<p align="center"><img src="header.svg" width="100%" alt="Mohamed Ben Naima — Full-Stack Developer and Cybersecurity Engineer" /></p>
+<p align="center"><img src="hero.svg" width="100%" alt="Mohamed Ben Naima — Full-Stack Developer and Cybersecurity Engineer" /></p>
 
 <p align="center">
   <i>Cybersecurity &amp; cloud computing engineering student with a passion for building and breaking systems — and a soft spot for ERPs that actually ship.</i>
@@ -12,6 +12,10 @@
   </tr>
 </table>
 
+<p align="center">
+  <sub>🎓 Seeking a PFE internship to wrap up my end-of-year engineering cycle.</sub>
+</p>
+
 <p align="center"><img src="ticker.svg" width="80%" alt="Rotating taglines" /></p>
 
 <p align="center"><img src="divider.svg" width="60%" alt="" /></p>
@@ -19,12 +23,8 @@
 <p align="center"><img src="h-stats.svg" width="60%" alt="Stats" /></p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={{OWNER}}&theme=github_dark" width="100%" alt="profile details" />
-</p>
-
-<p align="center">
   <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username={{OWNER}}&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=d4af37&icon_color=8b5cf6&text_color=bfb2d6&count_private=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/top-langs/?username={{OWNER}}&layout=donut&custom_title=Top%20Languages&theme=dark&hide_border=true&bg_color=00000000&title_color=d4af37&text_color=bfb2d6&langs_count=8&hide=html,css&size_weight=0.5&count_weight=0.5&card_width=420" alt="top languages" />
+  <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/top-langs/?username={{OWNER}}&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=d4af37&text_color=bfb2d6&langs_count=8&hide=html,css&size_weight=0.5&count_weight=0.5&card_width=460" alt="top languages" />
 </p>
 
 <p align="center">
@@ -33,6 +33,10 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username={{OWNER}}&bg_color=00000000&color=d4af37&line=8b5cf6&point=e6c66b&area_color=171233&area=true&hide_border=true&radius=8&height=300" width="100%" alt="activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={{OWNER}}&theme=github_dark" width="100%" alt="profile details" />
 </p>
 
 <p align="center"><img src="divider.svg" width="60%" alt="" /></p>
@@ -226,5 +230,5 @@
 </p>
 
 <p align="center">
-  <sub>Open to internships, collaborations, and CTF partners in Tunisia and beyond. ⚡</sub>
+  <sub>Seeking a PFE internship — open to collaborations and CTF partners in Tunisia and beyond. ⚡</sub>
 </p>

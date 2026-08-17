@@ -63,7 +63,7 @@
     <text y="5.5" text-anchor="middle" font-family="Georgia, serif" font-size="16" font-weight="700" fill="url(#gold)">M</text>
     <circle cx="13" cy="0" r="2.2" fill="#8b5cf6"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="12s" repeatCount="indefinite"/></circle>
   </g>
-  <text x="70" y="55" font-family="'SF Mono', 'JetBrains Mono', Consolas, ui-monospace, monospace" font-size="13" letter-spacing="1" fill="#b6a6e0">OPEN TO INTERNSHIPS &amp; CO-OPS</text>
+  <text x="70" y="55" font-family="'SF Mono', 'JetBrains Mono', Consolas, ui-monospace, monospace" font-size="13" letter-spacing="1" fill="#e6c66b">🎓 SEEKING PFE INTERNSHIP</text>
 
   <text x="1152" y="55" text-anchor="end" font-family="'SF Mono', 'JetBrains Mono', Consolas, ui-monospace, monospace" font-size="13" letter-spacing="1" fill="#9a87c9">@{{OWNER}}</text>
 

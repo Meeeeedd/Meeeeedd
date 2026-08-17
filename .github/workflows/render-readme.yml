@@ -25,12 +25,12 @@ jobs:
           OWNER="${{ github.repository_owner }}"
           REPO="${{ github.event.repository.name }}"
           sed -e "s/{{OWNER}}/$OWNER/g" -e "s/{{REPO}}/$REPO/g" README.template.md > README.md
-          sed -e "s/{{OWNER}}/$OWNER/g" header.template.svg > header.svg
+          sed -e "s/{{OWNER}}/$OWNER/g" hero.template.svg > hero.svg
 
       - name: Commit rendered outputs if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md header.svg
+          git add README.md hero.svg
           git diff --cached --quiet || git commit -m "chore: regenerate README from template"
           git push
