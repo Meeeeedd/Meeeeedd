@@ -1,7 +1,16 @@
 <p align="center"><img src="https://raw.githubusercontent.com/Meeeeedd/Meeeeedd/main/header.svg" width="100%" alt="Mohamed Ben Naima — Full-Stack Developer and Cybersecurity Engineer" /></p>
 
-Cybersecurity & cloud computing engineering student with a passion for building and breaking systems — and a soft spot for ERPs that actually ship.
-🌍 Based in Mahdia, Tunisia · ✉️ Medbennaima2021@gmail.com · 🚀 Currently working on **Microtiss Confect** & **Hermes Suite**
+<p align="center">
+  <i>Cybersecurity &amp; cloud computing engineering student with a passion for building and breaking systems — and a soft spot for ERPs that actually ship.</i>
+</p>
+
+<table align="center" width="72%">
+  <tr>
+    <td align="center">🌍 <b>Mahdia, Tunisia</b></td>
+    <td align="center">✉️ <b>Medbennaima2021@gmail.com</b></td>
+    <td align="center">🚀 <b>Microtiss Confect &amp; Hermes Suite</b></td>
+  </tr>
+</table>
 
 <p align="center"><img src="https://raw.githubusercontent.com/Meeeeedd/Meeeeedd/main/ticker.svg" width="80%" alt="Rotating taglines" /></p>
 
