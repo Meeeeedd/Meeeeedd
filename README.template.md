@@ -221,7 +221,7 @@
 <p align="center">
   <a href="https://mohamed-ben-naima.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=netlify&logoColor=8b5cf6" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/mohamed-ben-naima"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=8b5cf6" alt="LinkedIn" /></a>
-  <a href="cv.pdf"><img src="https://img.shields.io/badge/CV-0d1117?style=for-the-badge&logo=adobeacrobatreader&logoColor=d4af37" alt="CV" /></a>
+  <a href="https://raw.githubusercontent.com/{{OWNER}}/{{REPO}}/main/cv.pdf"><img src="https://img.shields.io/badge/CV-0d1117?style=for-the-badge&logo=adobeacrobatreader&logoColor=d4af37" alt="CV" /></a>
   <a href="mailto:Medbennaima2021@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=d4af37" alt="Email" /></a>
   <a href="https://github.com/{{OWNER}}"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=bfb2d6" alt="GitHub" /></a>
 </p>
