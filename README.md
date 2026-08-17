@@ -24,11 +24,6 @@
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Mohamed-Ben-Naima&show_icons=true&theme=dark&hide_border=true&bg_color=0b0818&title_color=d4af37&icon_color=8b5cf6&text_color=bfb2d6&count_private=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/top-langs/?username=Mohamed-Ben-Naima&layout=compact&theme=dark&hide_border=true&bg_color=0b0818&title_color=d4af37&text_color=bfb2d6&langs_count=8&hide=html,css&size_weight=0.5&count_weight=0.5&card_width=460" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mohamed-Ben-Naima&hide_border=true&background=0b0818&ring=d4af37&fire=f1c27d&currStreakNum=d4af37&currStreakLabel=8b5cf6&sideNums=bfb2d6&sideLabels=bfb2d6&dates=bfb2d6" alt="streak" />
 </p>
 
 <p align="center">
